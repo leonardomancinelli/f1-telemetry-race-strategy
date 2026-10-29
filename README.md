@@ -20,3 +20,5 @@ This repository contains a specialized Python analytics suite designed to extrac
 ├── telemetry_scripts/    # Python scripts for data extraction & plotting
 ├── output_charts/         # Generated telemetry overlays and degradation plots
 └── README.md              # Project documentation
+---
+*Developed by **Leonardo Mancinelli** — B.Sc. Mechanical Engineering Student at University of Perugia (UniPG)*
